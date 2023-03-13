@@ -25,3 +25,6 @@ python nukkiddaja.py [배경을 지울 이미지의 경로]
 ![원본](./asset/logo.jpg)
 ### 작업물
 ![작업물](./asset/logo.jpg_transparent.png)
+
+## 참고자료
+[파이썬 이용하여 이미지 배경 삭제하기](https://tolovefeels.tistory.com/100)
