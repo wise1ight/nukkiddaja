@@ -15,6 +15,7 @@ pip install -r requirements.txt
 python nukkiddaja.py [배경을 지울 이미지의 경로]
 ```
 ![명령줄예시](./asset/cmdline.png)
+그러면 원본 이미지 파일 이름에서 '_transparent.png'가 더 붙은 배경이 삭제된 이미지가 생성됩니다.
 
 ## 예시
 배경을 삭제하면 아래와 같이 이미지 뷰어가 열려 작업 결과를 미리 확인하실 수 있습니다.
